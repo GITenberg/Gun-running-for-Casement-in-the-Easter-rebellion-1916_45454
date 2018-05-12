@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43294'
     url: http://www.gutenberg.org/2009/agents/43294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45454#Gun-running-for-Casement-in-the-Easter-rebellion-1916
 gutenberg_issued: '2014-04-22'
 gutenberg_type: Text
 identifiers:

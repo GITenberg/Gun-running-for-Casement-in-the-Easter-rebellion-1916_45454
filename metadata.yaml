@@ -1,0 +1,28 @@
+_repo: Gun-running-for-Casement-in-the-Easter-rebellion-1916_45454
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45454-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spindler, Karl
+    birthdate: 1887
+    deathdate: 1951
+    gutenberg_agent_id: '43294'
+    url: http://www.gutenberg.org/2009/agents/43294
+description: ''
+gutenberg_issued: '2014-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45454'
+  lccn: '21015834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History -- Easter Rising, 1916'
+- !lcsh 'Casement, Roger, 1864-1916'
+title: Gun running for Casement in the Easter rebellion, 1916
+url: http://www.gutenberg.org/ebooks/45454
